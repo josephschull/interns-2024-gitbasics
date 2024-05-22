@@ -1,1 +1,2 @@
 baby blue, HEXCODE, (R,G,B)
+Blue
